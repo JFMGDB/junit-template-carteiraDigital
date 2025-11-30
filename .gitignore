@@ -12,6 +12,7 @@ buildNumber.properties
 
 # IDE
 .vscode/
+.vscode
 .idea/
 *.iml
 *.iws
